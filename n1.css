@@ -1,0 +1,23 @@
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
+.images img{
+    border: 6px solid black;
+    border-radius: 30px;
+}
+.the {
+    
+    border-radius: 50px;
+    background-color: white;
+    margin:30px;
+  
+    
+}
+body{
+    
+    background-color:light blue;
+    
+}
